@@ -1,0 +1,4 @@
+telebot==0.0.5
+aiohttp==3.10.8
+dnspython==2.6.1
+pymongo==4.10.1
